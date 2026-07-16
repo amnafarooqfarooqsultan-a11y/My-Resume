@@ -1,1 +1,1 @@
-![pic](pic.jpeg)
+![pic](resume.jpeg)
